@@ -25,5 +25,6 @@ This repository is my excercise to implementing Exploratory Data Analysis in Pyt
 
 ## Recommendation
 
-1. Maximizing promoting wines for adult category and higher income, then promoting meat for old category and lower income
-2. Maximizing sales and promoting more in store as most purchases are coming from store.
+1. Maximizing sales and promoting products such as wines, meat and gold **OR** making more deals for other products and getting more sales for it
+2. Maximizing sales and promoting more in store as most purchases are coming from store **OR** making more deals for buying from website and catalog
+3. Find product price for more precise analysis
